@@ -9,7 +9,7 @@ Sou estudante de Redes de Computadores no Instituto Federal do Rio Grande do Nor
 
 Aqui estão alguns projetos dos quais desenvolvi:
 
-- [BookRecommendations](https://github.com/libdolf/BookRecommendation): Um serviço que consome a API publicada no Google Livros e retorna informações e recomendações de livros com base em uma pesquisa.
+- [BookRecommendation](https://github.com/libdolf/BookRecommendation): Um serviço que consome a API publicada no Google Livros e retorna informações e recomendações de livros com base em uma pesquisa.
 
 ## 🌟 Habilidades
 
