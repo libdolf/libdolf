@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lindolfo!
 
-<!--
-**libdolf/libdolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Redes de Computadores no Instituto Federal do Rio Grande do Norte. Amo resolver problemas e estou focado em me tornar um desenvolvedor Backend.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que trabalho
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongodb,docker,aws,go&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+Aqui estão alguns projetos dos quais desenvolvi:
+
+- [BookRecommendations](https://github.com/libdolf/BookRecommendation): Um serviço que consome a API publicada no Google Livros e retorna informações e recomendações de livros com base em uma pesquisa.
+
+## 🌟 Habilidades
+
+- **Linguagens de Programação:** Java, Go
+- **Frameworks:** Spring Boot
+- **Outras Tecnologias:** Docker, SQL
+
+## 📫 Contato
+
+- **Email:** lindolfomoizinho@gmail.com
+- **LinkedIn:** [Perfil no LinkedIn](https://www.linkedin.com/in/lindolfomoizinho1/)
+
+## 🎯 Sobre Mim
+
+Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades como desenvolvedor. Adoro colaborar em projetos desafiadores e encontrar soluções eficientes para problemas complexos.
+
+
